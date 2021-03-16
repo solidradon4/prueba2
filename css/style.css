@@ -1,0 +1,36 @@
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+.top-header{
+   display: block;
+   height: 150%;
+   width: 150%;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+	position: fixed;
+	right: 0%;
+	bottom: 0%;
+	width: 100%;
+		
+}
+
+img{
+	width: 250px;
+	height: 250px;
+}
+
+

@@ -1,0 +1,115 @@
+
+:root{
+	--color-negro:#282d33;
+	--menu-hover:#282d33;
+	--fondo-footer:#30363d;
+	--color-footer:#898989;
+}
+header{
+	background-color: #fff;
+}
+
+.header-area {
+	padding-left: 200px;
+	padding-right: 200px;
+	position: relative;
+}
+
+.top-header img{
+   padding-top: 50px;
+   height: 200px;
+   width: 100%;
+}
+
+footer{
+	background-color: var(--fondo-footer);
+	color: var(--color-footer);
+	padding: 20px 0;
+	text-align: center;
+	font-size: 13px;
+	width: 100%;
+		
+}
+
+img{
+	width: 250px;
+	height: 250px;
+	margin-left: 20px;
+	
+}
+
+.imgmnu img{
+	height: 50px;
+	width: 50px;
+	padding-left: 50px;
+	padding-top: 50px;
+
+}
+
+.imagen{
+	margin-left: 50px;
+	padding-left: 20px;
+    height: 200px; 
+	width: 200px; 
+	
+
+}
+
+.imagen-color img{
+	margin-left: 50px;
+	padding: 20px;
+    height: 200px; 
+	width: 200px; 
+}
+
+
+.centro{
+	 padding-left: 200px;
+     padding-top: 50px;
+	 padding-bottom: 50PX;
+     height: 500px;  
+	 
+
+}
+
+.ImgInferiores{
+	padding-top: 50px;
+	margin-bottom: 50px;
+    height: 700px;  
+	background: rgb(201, 200, 200);
+}
+
+.centar{
+	text-align: center;
+}
+
+.parrafo{
+    text-align: center;
+	width: 300px;
+    padding-left: 50px;
+}
+
+h3{
+	padding-top: 20px ;
+	padding-bottom: 20px;
+}
+
+
+.titulo1{
+	text-align: center;
+	padding: 50px;
+}
+
+.titulo2{
+	text-align: center;
+	padding: 20px;
+}
+
+.ultimo{
+	padding-top: 50px;
+	left: 20px;
+}
+
+.ultimo1{
+	padding-top: 25px;
+}
